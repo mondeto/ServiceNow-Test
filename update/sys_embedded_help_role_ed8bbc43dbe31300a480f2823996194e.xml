@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="task_activity_reader" name="task_activity_reader">438c0383eb31310023c7a9bcf106feb6</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2018-07-31 10:06:36</sys_created_on>
+        <sys_id>ed8bbc43dbe31300a480f2823996194e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>438c0383eb31310023c7a9bcf106feb6</sys_name>
+        <sys_package display_value="Simo Test" source="x_256828_simo_test">4cbc8487db231300a480f28239961989</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Simo Test">4cbc8487db231300a480f28239961989</sys_scope>
+        <sys_update_name>sys_embedded_help_role_ed8bbc43dbe31300a480f2823996194e</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-07-31 10:06:36</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
